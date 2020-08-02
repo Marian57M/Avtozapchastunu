@@ -1,0 +1,10 @@
+2020-07-27 14:45:12 - PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'Autozap'@'localhost' (using password: YES) in C:\xampp\htdocs\Avtozapchastunu\system\library\db\mysqli.php on line 7
+2020-07-27 14:45:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\Avtozapchastunu\system\library\db\mysqli.php on line 10
+2020-07-27 14:45:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\Avtozapchastunu\system\library\db\mysqli.php on line 10
+2020-07-27 14:45:12 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\Avtozapchastunu\install\controller\install\step_3.php on line 281
+2020-07-27 14:45:12 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\Avtozapchastunu\install\controller\install\step_3.php on line 281
+2020-07-27 14:46:40 - PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'Autozap'@'localhost' (using password: YES) in C:\xampp\htdocs\Avtozapchastunu\system\library\db\mysqli.php on line 7
+2020-07-27 14:46:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\Avtozapchastunu\system\library\db\mysqli.php on line 10
+2020-07-27 14:46:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\Avtozapchastunu\system\library\db\mysqli.php on line 10
+2020-07-27 14:46:40 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\Avtozapchastunu\install\controller\install\step_3.php on line 281
+2020-07-27 14:46:40 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\Avtozapchastunu\install\controller\install\step_3.php on line 281
